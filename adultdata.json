@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "userType": "clinician",
+    "firstName": "Jane",
+    "lastName": "Andersen",
+    "addresses": [
+      {
+        "line1": "100 Some Street",
+        "line2": "Unit 1",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": 98012
+      }
+    ],
+    "contactDetails": [
+      { "email": "jane@andersen.com" },
+      {
+        "phone": "+1 555 555-5555",
+        "extension": 5555
+      }
+    ],
+    "children": [ "token01", "token02", "token05", "token10", "token12" ]
+  },
+  {
+    "id": "2",
+    "userType": "clinician",
+    "firstName": "William",
+    "lastName": "Ellis",
+    "addresses": [
+      {
+        "line1": "1313 Oak Rd",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": 11201
+      }
+    ],
+    "contactDetails": [
+      { "email": "william@ellis.net" },
+      { "phone": "+1 555 555-4321" }
+    ],
+    "children": [ "token03", "token04", "token06", "token11" ]
+  },
+  {
+    "id": "3",
+    "userType": "parent",
+    "firstName": "Eleanor",
+    "lastName": "Bennett",
+    "addresses": [
+      {
+        "line1": "123 Elm Street",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": 94105
+      }
+    ],
+    "contactDetails": [
+      { "email": "eleanor@bennett.com" },
+      { "phone": "+1 555 555-1234" }
+    ],
+    "children": [ "token01" ]
+  },
+  {
+    "id": "4",
+    "userType": "parent",
+    "firstName": "Miles",
+    "lastName": "Harper",
+    "addresses": [
+      {
+        "line1": "456 Maple Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": 60614
+      }
+    ],
+    "contactDetails": [
+      { "email": "miles@harper.com" },
+      { "phone": "+1 555 555-7890" }
+    ],
+    "children": [ "token02" ]
+  },
+  {
+    "id": "5",
+    "userType": "parent",
+    "firstName": "Sophia",
+    "lastName": "Griffin",
+    "addresses": [
+      {
+        "line1": "789 Pine St",
+        "city": "Austin",
+        "state": "TX",
+        "zip": 78701
+      }
+    ],
+    "contactDetails": [
+      { "email": "sophia@griffin.net" },
+      { "phone": "+1 555 555-2468" }
+    ],
+    "children": [ "token03", "token04" ]
+  },
+  {
+    "id": "6",
+    "userType": "parent",
+    "firstName": "Oliver",
+    "lastName": "Ford",
+    "addresses": [
+      {
+        "line1": "1010 Cedar Blvd",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": 90028
+      }
+    ],
+    "contactDetails": [
+      { "email": "oliver@ford.com" }
+    ],
+    "children": [ "token05" ]
+  },
+  {
+    "id": "7",
+    "userType": "parent",
+    "firstName": "Isabella",
+    "lastName": "Dawson",
+    "addresses": [
+      {
+        "line1": "1212 Birch Ave",
+        "city": "New York",
+        "state": "NY",
+        "zip": 10001
+      }
+    ],
+    "contactDetails": [
+      { "email": "isabella@dawson.org" },
+      { "phone": "+1 555 555-8765" }
+    ],
+    "children": [ "token06" ]
+  },
+  {
+    "id": "8",
+    "userType": "clinician",
+    "firstName": "Charlotte",
+    "lastName": "Hale",
+    "addresses": [
+      {
+        "line1": "1414 Spruce Way",
+        "city": "Denver",
+        "state": "CO",
+        "zip": 80202
+      }
+    ],
+    "contactDetails": [
+      { "email": "charlotte@hale.org" }
+    ],
+    "children": [ "token07", "token08", "token09" ]
+  },
+  {
+    "id": "9",
+    "userType": "parent",
+    "firstName": "Henry",
+    "lastName": "Ives",
+    "addresses": [
+      {
+        "line1": "1515 Fir Blvd",
+        "city": "Palo Alto",
+        "state": "CA",
+        "zip": 94301
+      }
+    ],
+    "contactDetails": [
+      { "email": "henry@ives.com" },
+      { "phone": "+1 555 555-5678" }
+    ],
+    "children": [ "token10" ]
+  },
+  {
+    "id": "10",
+    "userType": "parent",
+    "firstName": "Emily",
+    "lastName": "Jones",
+    "addresses": [
+      {
+        "line1": "1616 Alder Ln",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": 92101
+      }
+    ],
+    "contactDetails": [
+      { "email": "emily@jones.com" },
+      { "phone": "+1 555 555-8765" }
+    ],
+    "children": [ "token11" ]
+  },
+  {
+    "id": "11",
+    "userType": "parent",
+    "firstName": "Jacob",
+    "lastName": "Kepler",
+    "addresses": [
+      {
+        "line1": "1717 Pine Ave",
+        "city": "Kansas City",
+        "state": "MO",
+        "zip": 64108
+      }
+    ],
+    "contactDetails": [
+      { "email": "jacob@kepler.net" }
+    ],
+    "children": [ "token12" ]
+  }
+]

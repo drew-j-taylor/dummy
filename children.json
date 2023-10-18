@@ -1,0 +1,98 @@
+[
+  {
+    "UserID": "token01",
+    "firstName": "Timmy",
+    "lastName": "Bennet",
+    "parentId": "3",
+    "clinicianId": "1",
+    "recentLevels": [ "Phone_Number", "Block_Replication" ]
+  },
+  {
+    "UserID": "token02",
+    "firstName": "Aiden",
+    "lastName": "Harper",
+    "parentId": "4",
+    "clinicianId": "1",
+    "recentLevels": [ "Phone_Number", "Block_Replication" ]
+  },
+  {
+    "UserID": "token03",
+    "firstName": "Zoe",
+    "lastName": "Griffin",
+    "parentId": "5",
+    "clinicianId": "2",
+    "recentLevels": [ "Phone_Number", "Block_Replication", "Verbs" ]
+  },
+  {
+    "UserID": "token04",
+    "firstName": "Mia",
+    "lastName": "Griffin",
+    "parentId": "5",
+    "clinicianId": "2",
+    "recentLevels": [ "Phone_Number" ]
+  },
+  {
+    "UserID": "token05",
+    "firstName": "Liam",
+    "lastName": "Ford",
+    "parentId": "6",
+    "clinicianId": "1",
+    "recentLevels": [ "Phone_Number", "Block_Replication" ]
+  },
+  {
+    "UserID": "token06",
+    "firstName": "Ava",
+    "lastName": "Dawsom",
+    "parentId": "7",
+    "clinicianId": "2",
+    "recentLevels": [ "Phone_Number", "Block_Replication", "Verbs" ]
+  },
+  {
+    "UserID": "token07",
+    "firstName": "Shadrach",
+    "lastName": "Hale",
+    "parentId": "8",
+    "clinicianId": "8",
+    "recentLevels": [ "Phone_Number", "Block_Replication", "Verbs" ]
+  },
+  {
+    "UserID": "token08",
+    "firstName": "Abraham",
+    "lastName": "Hale",
+    "parentId": "8",
+    "clinicianId": "8",
+    "recentLevels": [ "Phone_Number", "Block_Replication" ]
+  },
+  {
+    "UserID": "token09",
+    "firstName": "Gideon",
+    "lastName": "Hale",
+    "parentId": "8",
+    "clinicianId": "8",
+    "recentLevels": [ "Phone_Number" ]
+  },
+  {
+    "UserID": "token10",
+    "firstName": "Caleb",
+    "lastName": "Ives",
+    "parentId": "9",
+    "clinicianId": "1",
+    "recentLevels": [ "Phone_Number" ]
+  },
+  {
+    "UserID": "token11",
+    "firstName": "Ethan",
+    "lastName": "Jones",
+    "parentId": "10",
+    "clinicianId": "2",
+    "recentLevels": [ "Phone_Number", "Block_Replication" ]
+  },
+  {
+    "UserID": "token12",
+    "firstName": "Lucas",
+    "lastName": "Kepler",
+    "parentId": "11",
+    "clinicianId": "1",
+    "recentLevels": [ "Phone_Number", "Block_Replication", "Verbs" ]
+  }
+]
