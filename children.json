@@ -5,7 +5,7 @@
     "lastName": "Bennet",
     "parentId": "3",
     "clinicianId": "1",
-    "recentLevels": [ "Block_Replication", "Phone_Number" ]
+    "recentLevels": [ "Block Replication", "Phone Number" ]
   },
   {
     "UserID": "token02",
@@ -13,7 +13,7 @@
     "lastName": "Harper",
     "parentId": "4",
     "clinicianId": "1",
-    "recentLevels": [ "Block_Replication", "Phone_Number" ]
+    "recentLevels": [ "Block Replication", "Phone Number" ]
   },
   {
     "UserID": "token03",
@@ -21,7 +21,7 @@
     "lastName": "Griffin",
     "parentId": "5",
     "clinicianId": "2",
-    "recentLevels": [ "Verbs", "Block_Replication", "Phone_Number" ]
+    "recentLevels": [ "Verbs", "Block Replication", "Phone Number" ]
   },
   {
     "UserID": "token04",
@@ -29,7 +29,7 @@
     "lastName": "Griffin",
     "parentId": "5",
     "clinicianId": "2",
-    "recentLevels": [ "Phone_Number" ]
+    "recentLevels": [ "Phone Number" ]
   },
   {
     "UserID": "token05",
@@ -37,7 +37,7 @@
     "lastName": "Ford",
     "parentId": "6",
     "clinicianId": "1",
-    "recentLevels": [ "Block_Replication", "Phone_Number" ]
+    "recentLevels": [ "Block Replication", "Phone Number" ]
   },
   {
     "UserID": "token06",
@@ -45,7 +45,7 @@
     "lastName": "Dawsom",
     "parentId": "7",
     "clinicianId": "2",
-    "recentLevels": [ "Verbs", "Block_Replication", "Phone_Number" ]
+    "recentLevels": [ "Verbs", "Block Replication", "Phone Number" ]
   },
   {
     "UserID": "token07",
@@ -53,7 +53,7 @@
     "lastName": "Hale",
     "parentId": "8",
     "clinicianId": "8",
-    "recentLevels": [ "Verbs", "Block_Replication", "Phone_Number" ]
+    "recentLevels": [ "Verbs", "Block Replication", "Phone Number" ]
   },
   {
     "UserID": "token08",
@@ -61,7 +61,7 @@
     "lastName": "Hale",
     "parentId": "8",
     "clinicianId": "8",
-    "recentLevels": [ "Block_Replication", "Phone_Number" ]
+    "recentLevels": [ "Block Replication", "Phone Number" ]
   },
   {
     "UserID": "token09",
@@ -69,7 +69,7 @@
     "lastName": "Hale",
     "parentId": "8",
     "clinicianId": "8",
-    "recentLevels": [ "Phone_Number" ]
+    "recentLevels": [ "Phone Number" ]
   },
   {
     "UserID": "token10",
@@ -77,7 +77,7 @@
     "lastName": "Ives",
     "parentId": "9",
     "clinicianId": "1",
-    "recentLevels": [ "Phone_Number" ]
+    "recentLevels": [ "Phone Number" ]
   },
   {
     "UserID": "token11",
@@ -85,7 +85,7 @@
     "lastName": "Jones",
     "parentId": "10",
     "clinicianId": "2",
-    "recentLevels": [ "Block_Replication", "Phone_Number" ]
+    "recentLevels": [ "Block Replication", "Phone Number" ]
   },
   {
     "UserID": "token12",
@@ -93,6 +93,6 @@
     "lastName": "Kepler",
     "parentId": "11",
     "clinicianId": "1",
-    "recentLevels": [ "Verbs", "Block_Replication", "Phone_Number" ]
+    "recentLevels": [ "Verbs", "Block Replication", "Phone Number" ]
   }
 ]
